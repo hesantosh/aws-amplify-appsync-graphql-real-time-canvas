@@ -155,14 +155,14 @@
     "apireactdraw": {
       "Type": "AWS::CloudFormation::Stack",
       "Properties": {
-        "TemplateURL": "https://s3.amazonaws.com/amplify-react-draw-santosh-124517-deployment/amplify-cfn-templates/api/cloudformation-template.json",
+        "TemplateURL": "https://s3.amazonaws.com/amplify-react-draw-dev-144147-deployment/amplify-cfn-templates/api/cloudformation-template.json",
         "Parameters": {
           "CreateAPIKey": 1,
           "AppSyncApiName": "reactdraw",
           "DynamoDBBillingMode": "PAY_PER_REQUEST",
-          "S3DeploymentBucket": "amplify-react-draw-santosh-124517-deployment",
+          "S3DeploymentBucket": "amplify-react-draw-dev-144147-deployment",
           "S3DeploymentRootKey": "amplify-appsync-files/b45ab0e68727a261d5c28c0106fb917b7911ed59",
-          "env": "santosh"
+          "env": "dev"
         }
       }
     }
