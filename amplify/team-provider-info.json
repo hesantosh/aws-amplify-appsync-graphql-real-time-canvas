@@ -1,0 +1,15 @@
+{
+  "santosh": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-react-draw-santosh-124517-authRole",
+      "UnauthRoleArn": "arn:aws:iam::875100320372:role/amplify-react-draw-santosh-124517-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::875100320372:role/amplify-react-draw-santosh-124517-authRole",
+      "Region": "us-east-1",
+      "DeploymentBucketName": "amplify-react-draw-santosh-124517-deployment",
+      "UnauthRoleName": "amplify-react-draw-santosh-124517-unauthRole",
+      "StackName": "amplify-react-draw-santosh-124517",
+      "StackId": "arn:aws:cloudformation:us-east-1:875100320372:stack/amplify-react-draw-santosh-124517/492cc600-7466-11ec-92b9-12114b29ff3b",
+      "AmplifyAppId": "d2lpk2gbh90toa"
+    }
+  }
+}
